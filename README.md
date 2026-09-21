@@ -42,9 +42,7 @@ Inicie o servidor de desenvolvimento:
 Bash
 npm run dev
 
-Autor
-Desenvolvido por Caio Silva.
+
 
 LinkedIn: linkedin.com/in/caio-guilherme-csm/
-
 GitHub: github.com/Gscaio007
